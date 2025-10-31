@@ -27,26 +27,20 @@ COLLECTION_NAME = "projects"
 
 # ========== API Configuration ==========
 # Load API keys from environment
-CANDIDATE_KEYS = [
-    os.getenv("GOOGLE_API_KEY"),
-    os.getenv("GEMINI_API_KEY"),
-    os.getenv("GENAI_API_KEY"),
-    os.getenv("GOOGLE_API_KEY_JSON"),
-]
-
-# Pick the first non-empty key
-GEMINI_API_KEY = next((k for k in CANDIDATE_KEYS if k and len(k) > 0), "")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
 CARTESIA_API_KEY = os.getenv("CARTESIA_API_KEY", "")
 
-# ========== AI Models ==========
-# Configure Gemini
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-else:
-    # Leave unconfigured; API calls will surface clear errors
-    genai.configure(api_key=os.getenv("GEMINI_API_KEY", ""))
+# Validate API keys
+if not GOOGLE_API_KEY:
+    print("WARNING: GOOGLE_API_KEY not found in .env file")
+if not CARTESIA_API_KEY:
+    print("WARNING: CARTESIA_API_KEY not found in .env file")
 
-# Default model (will error later if not configured)
+# ========== AI Models ==========
+# Configure Gemini with Google API key
+genai.configure(api_key=GOOGLE_API_KEY)
+
+# Initialize Gemini model
 gemini_model = genai.GenerativeModel('gemini-2.0-flash-exp')
 
 # Embedding model for semantic search
@@ -94,4 +88,4 @@ def check_cartesia_setup():
 
 def check_gemini_setup():
     """Check if Gemini API is configured"""
-    return bool(GEMINI_API_KEY)
+    return bool(GOOGLE_API_KEY)
