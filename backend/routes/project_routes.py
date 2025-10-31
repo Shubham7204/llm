@@ -2,10 +2,12 @@
 Project management routes
 """
 from fastapi import APIRouter, UploadFile, HTTPException
+from fastapi.responses import FileResponse
 from models import ProjectCreate
 from db import mongodb, file_manager
 from services import pdf_service, vector_service
 from utils.id_generator import generate_project_id
+import os
 
 router = APIRouter(prefix="/projects", tags=["Projects"])
 

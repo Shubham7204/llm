@@ -228,3 +228,10 @@ export async function getProjectPodcasts(projectId: string): Promise<Podcast[]> 
 export function getAudioUrl(filename: string): string {
   return `${API_BASE_URL}/audio/${filename}`;
 }
+
+/**
+ * Get PDF URL for viewing
+ */
+export function getPDFUrl(filename: string): string {
+  return `${API_BASE_URL}/pdf/${filename}`;
+}

@@ -5,10 +5,11 @@ import { useParams } from "next/navigation"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Mic2, MessageSquare, ArrowLeft, Loader2 } from "lucide-react"
+import { Mic2, MessageSquare, ArrowLeft, Loader2, FileText } from "lucide-react"
 import { ChatInterface } from "@/components/case/chat-interface"
 import { PodcastGenerator } from "@/components/case/podcast-generator"
 import { PDFUpload } from "@/components/case/pdf-upload"
+import { PDFViewer } from "@/components/case/pdf-viewer"
 import * as api from "@/lib/api"
 
 export default function CasePage() {
@@ -16,6 +17,7 @@ export default function CasePage() {
   const caseId = params.caseId as string
   const [pdfUploaded, setPdfUploaded] = useState(false)
   const [caseName, setCaseName] = useState("My PDF Project")
+  const [pdfFilename, setPdfFilename] = useState("")
   const [loading, setLoading] = useState(true)
 
   // Load project details on mount
@@ -27,6 +29,7 @@ export default function CasePage() {
         // Check if PDF is already uploaded
         if (project.pdf_filename) {
           setPdfUploaded(true)
+          setPdfFilename(project.pdf_filename)
         }
       } catch (err) {
         console.error("Failed to load project:", err)
@@ -67,9 +70,10 @@ export default function CasePage() {
           <div className="flex-1 flex items-center justify-center px-4 sm:px-6 lg:px-8">
             <PDFUpload 
               projectId={caseId} 
-              onUploadComplete={(data) => {
+              onUploadComplete={async (data) => {
                 console.log('PDF uploaded:', data)
                 setPdfUploaded(true)
+                setPdfFilename(data.filename)
               }} 
             />
           </div>
@@ -77,12 +81,18 @@ export default function CasePage() {
           <div className="flex-1 flex flex-col overflow-hidden">
             <Tabs defaultValue="chat" className="flex flex-col h-full">
               <div className="flex justify-center pt-6 pb-0">
-                <TabsList className="grid w-full max-w-xs grid-cols-2 bg-muted/50 p-1 rounded-lg border border-border/50">
+                <TabsList className="grid w-full max-w-md grid-cols-3 bg-muted/50 p-1 rounded-lg border border-border/50">
                   <TabsTrigger
                     value="chat"
                     className="gap-2 data-[state=active]:bg-background data-[state=active]:shadow-sm data-[state=active]:border-b-2 data-[state=active]:border-accent"
                   >
                     <MessageSquare className="w-4 h-4" /> Chat
+                  </TabsTrigger>
+                  <TabsTrigger
+                    value="pdf"
+                    className="gap-2 data-[state=active]:bg-background data-[state=active]:shadow-sm data-[state=active]:border-b-2 data-[state=active]:border-accent"
+                  >
+                    <FileText className="w-4 h-4" /> PDF
                   </TabsTrigger>
                   <TabsTrigger
                     value="podcast"
@@ -95,6 +105,13 @@ export default function CasePage() {
 
               <TabsContent value="chat" className="flex-1 flex flex-col mt-0 overflow-hidden h-full m-0 data-[state=active]:flex">
                 <ChatInterface caseId={caseId} />
+              </TabsContent>
+
+              <TabsContent value="pdf" className="flex-1 flex flex-col mt-4 overflow-hidden px-4 sm:px-6 lg:px-8 pb-8">
+                <PDFViewer 
+                  pdfUrl={api.getPDFUrl(pdfFilename)} 
+                  fileName={pdfFilename}
+                />
               </TabsContent>
 
               <TabsContent value="podcast" className="flex-1 flex flex-col mt-4 overflow-y-auto px-4 sm:px-6 lg:px-8">

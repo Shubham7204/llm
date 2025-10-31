@@ -2,10 +2,11 @@
 PDF to Podcast - Main FastAPI Application
 Minimal entry point with route registration
 """
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 import config
-from db import mongodb
+from db import mongodb, file_manager
 from routes import project_router, chat_router, podcast_router
 
 
@@ -42,7 +43,8 @@ def home():
         "features": [
             "Project Management",
             "Chat with PDF (RAG)",
-            "Generate Podcast"
+            "Generate Podcast",
+            "PDF Viewer"
         ],
         "endpoints": {
             "create_project": "POST /projects",
@@ -51,6 +53,7 @@ def home():
             "chat": "POST /chat",
             "generate_podcast": "POST /generate_podcast",
             "get_audio": "GET /audio/{filename}",
+            "get_pdf": "GET /pdf/{filename}",
             "status": "GET /status"
         }
     }
@@ -69,3 +72,14 @@ async def status():
         "cartesia_configured": config.check_cartesia_setup(),
         "gemini_configured": config.check_gemini_setup()
     }
+
+
+@app.get("/pdf/{filename}")
+async def get_pdf(filename: str):
+    """Serve PDF file"""
+    path = file_manager.get_pdf_path(filename)
+    
+    if not file_manager.pdf_file_exists(filename):
+        raise HTTPException(status_code=404, detail="PDF not found")
+    
+    return FileResponse(path, media_type="application/pdf")

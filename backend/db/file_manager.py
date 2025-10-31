@@ -82,3 +82,24 @@ def audio_file_exists(filename: str) -> bool:
 def get_faiss_index_path(project_id: str) -> str:
     """Get path for FAISS index file"""
     return os.path.join(config.UPLOAD_DIR, f"{project_id}.faiss")
+
+
+def get_pdf_path(filename: str) -> str:
+    """Get full path for PDF file"""
+    # Check if it's already a full path or just a filename
+    if os.path.isabs(filename) or os.path.exists(filename):
+        return filename
+    
+    # Try to find the file in uploads directory
+    for file in os.listdir(config.UPLOAD_DIR):
+        if file.endswith(filename):
+            return os.path.join(config.UPLOAD_DIR, file)
+    
+    # If not found, return expected path
+    return os.path.join(config.UPLOAD_DIR, filename)
+
+
+def pdf_file_exists(filename: str) -> bool:
+    """Check if PDF file exists"""
+    path = get_pdf_path(filename)
+    return os.path.exists(path)
