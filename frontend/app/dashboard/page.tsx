@@ -82,6 +82,24 @@ export default function Dashboard() {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        {/* Header Section - Show when projects exist */}
+        {!loading && !error && cases.length > 0 && (
+          <div className="flex items-center justify-between mb-8">
+            <div>
+              <h1 className="text-3xl font-bold text-foreground mb-2">My Projects</h1>
+              <p className="text-muted-foreground">
+                Manage your PDF projects and podcasts
+              </p>
+            </div>
+            <Button
+              onClick={() => setShowCreateModal(true)}
+              className="bg-gradient-to-r from-primary to-accent hover:from-primary/90 hover:to-accent/90 text-primary-foreground gap-2 h-11 px-6"
+            >
+              <Plus className="w-5 h-5" /> Create New Project
+            </Button>
+          </div>
+        )}
+
         {/* Projects Grid */}
         {loading ? (
           <div className="text-center py-24">
