@@ -1,0 +1,1664 @@
+Available Cartesia Voices (English only)
+================================================================================
+
+[1] Name: Tessa
+    ID: 6ccbfb76-1fc6-48f7-b71d-91ac6298247b
+    Description: Friendly female voice with a warm, conversational tone that feels like chatting with a close friend.
+--------------------------------------------------------------------------------
+
+[2] Name: Kiefer
+    ID: 228fca29-3a0a-435c-8728-5cb483251068
+    Description: Confident voice with strong clarity and composed delivery, ideal for presentations and customer interactions
+--------------------------------------------------------------------------------
+
+[3] Name: Brooke - Big Sister
+    ID: e07c00bc-4134-4eae-9ea4-1a55fb45746b
+    Description: Approachable adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[4] Name: Katie - Friendly Fixer
+    ID: f786b574-daa5-4673-aa0c-cbe3e8534c02
+    Description: Enunciating young adult female for conversational support use cases
+--------------------------------------------------------------------------------
+
+[5] Name: Jacqueline - Reassuring Agent
+    ID: 9626c31c-bec5-4cca-baa8-f8ba9e84c8bc
+    Description: Confident, young adult female for empathic customer support
+--------------------------------------------------------------------------------
+
+[6] Name: Caroline - Southern Guide
+    ID: f9836c6e-a0bd-460e-9d3c-f7299fa60f94
+    Description: Friendly, inviting, slow young adult female for conversation support
+--------------------------------------------------------------------------------
+
+[7] Name: Ronald - Thinker
+    ID: 5ee9feff-1265-424a-9d7f-8e4d431a12c7
+    Description: Intense, deep young adult male for casual conversations
+--------------------------------------------------------------------------------
+
+[8] Name: Linda - Conversational Guide
+    ID: 829ccd10-f8b3-43cd-b8a0-4aeaa81f3b30
+    Description: Clear, confident mature female for conversational use cases
+--------------------------------------------------------------------------------
+
+[9] Name: Brandon
+    ID: 5cad89c9-d88a-4832-89fb-55f2f16d13d3
+    Description: Confident voice with strong clarity and composed tone, perfect for persuasive and professional delivery
+--------------------------------------------------------------------------------
+
+[10] Name: Ariana
+    ID: ec1e269e-9ca0-402f-8a18-58e0e022355a
+    Description: Friendly and approachable female voice with a warm, welcoming tone that builds instant connection
+--------------------------------------------------------------------------------
+
+[11] Name: Dorothy
+    ID: 66c6b81c-ddb7-4892-bdd5-19b5a7be38e7
+    Description: Casual female voice with a relaxed and natural tone, perfect for everyday conversations and relatable content
+--------------------------------------------------------------------------------
+
+[12] Name: Joanie
+    ID: a7b8d8fa-f6e5-4908-900e-0c11d1d82519
+    Description: Upbeat matured female voice with lively warmth and confidence, perfect for natural and engaging conversations
+--------------------------------------------------------------------------------
+
+[13] Name: Layla
+    ID: 999df508-4de5-40a7-8bd3-8c12f678c284
+    Description: Chill voice with a smooth, easygoing tone that feels relaxed and effortlessly cool
+--------------------------------------------------------------------------------
+
+[14] Name: Marian
+    ID: 26403c37-80c1-4a1a-8692-540551ca2ae5
+    Description: Matured female voice with calm authority and smooth pacing, perfect for narrations and storytelling
+--------------------------------------------------------------------------------
+
+[15] Name: Cory
+    ID: 41468051-3a85-4b68-92ad-64add250d369
+    Description:  Casual male voice with a friendly, easygoing tone that feels natural and approachable
+--------------------------------------------------------------------------------
+
+[16] Name: Kyle
+    ID: c961b81c-a935-4c17-bfb3-ba2239de8c2f
+    Description: Friendly male voice with a warm, conversational tone that builds instant connection and trust
+--------------------------------------------------------------------------------
+
+[17] Name: Sarah - Mindful Woman
+    ID: 694f9389-aac1-45b6-b726-9d9369183238
+    Description: Soothing female for meditations and calming conversations
+--------------------------------------------------------------------------------
+
+[18] Name: Elizabeth - Manager
+    ID: 248be419-c632-4f23-adf1-5324ed7dbf1d
+    Description: Enunicating young female for providing guidance and instructions
+--------------------------------------------------------------------------------
+
+[19] Name: Blake - Helpful Agent
+    ID: a167e0f3-df7e-4d52-a9c3-f949145efdab
+    Description: Energetic adult male for engaging customer support
+--------------------------------------------------------------------------------
+
+[20] Name: Sophie - Teacher
+    ID: bf0a246a-8642-498a-9950-80c35e9276b5
+    Description: Mature female for natural conversations
+--------------------------------------------------------------------------------
+
+[21] Name: Kira - Trusted Confidant
+    ID: 57dcab65-68ac-45a6-8480-6c4c52ec1cd1
+    Description: Emotive, young adult female for empathetic conversations
+--------------------------------------------------------------------------------
+
+[22] Name: Savannah - Magnolia Belle
+    ID: 78ab82d5-25be-4f7d-82b3-7ad64e5b85b2
+    Description: Adult female for casual, authentic conservations
+--------------------------------------------------------------------------------
+
+[23] Name: Sarah - Curious Mindful Woman
+    ID: 794f9389-aac1-45b6-b726-9d9369183238
+    Description: Soothing female for meditations and calming conversations
+--------------------------------------------------------------------------------
+
+[24] Name: Calypso - ASMR Lady
+    ID: 03496517-369a-4db1-8236-3d3ae459ddf7
+    Description: Soothing female for meditations and other calming use cases
+--------------------------------------------------------------------------------
+
+[25] Name: Cathy - Coworker
+    ID: e8e5fffb-252c-436d-b842-8879b84445b6
+    Description: Nice, young adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[26] Name: Sierra - California Girl
+    ID: b7d50908-b17c-442d-ad8d-810c63997ed9
+    Description: Slow, chill young adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[27] Name: Daisy - Reading Girl
+    ID: 32b3f3c5-7171-46aa-abe7-b598964aa793
+    Description: Very young female for children's book narrations and young animated personas
+--------------------------------------------------------------------------------
+
+[28] Name: Callie - Encourager
+    ID: 00a77add-48d5-4ef6-8157-71e5437b282d
+    Description: Smooth, young adult female for empathetic conversation
+--------------------------------------------------------------------------------
+
+[29] Name: Lila - Meditation Guide
+    ID: 4af7c703-f2a9-45dd-a7fd-724cf7efc371
+    Description: Melodic female for gentle and empathetic conversations
+--------------------------------------------------------------------------------
+
+[30] Name: Sunny - Pep Talker
+    ID: 156fb8d2-335b-4950-9cb3-a2d33befec77
+    Description: Upbeat female for engaging conversations
+--------------------------------------------------------------------------------
+
+[31] Name: Connie - Candid Conversationalist
+    ID: 8d8ce8c9-44a4-46c4-b10f-9a927b99a853
+    Description: Natural, cheery young adult female for authentic conversations
+--------------------------------------------------------------------------------
+
+[32] Name: Renee - Commander
+    ID: c2ac25f9-ecc4-4f56-9095-651354df60c0
+    Description: Firm adult female fit for broadcasts and narrations
+--------------------------------------------------------------------------------
+
+[33] Name: Mary - Nurse
+    ID: 5c42302c-194b-4d0c-ba1a-8cb485c84ab9
+    Description: Mature adult female for instructional videos and empathetic conversations
+--------------------------------------------------------------------------------
+
+[34] Name: Theo - Modern Narrator
+    ID: 79f8b5fb-2cc8-479a-80df-29f7a7cf1a3e
+    Description: Steady, enunciating, confident young male for narrations
+--------------------------------------------------------------------------------
+
+[35] Name: Tim - Pal
+    ID: 146485fd-8736-41c7-88a8-7cdd0da34d84
+    Description: Nasal-y male for casual conversations
+--------------------------------------------------------------------------------
+
+[36] Name: Simi - Support Specialist
+    ID: 3b554273-4299-48b9-9aaf-eefd438e3941
+    Description: Firm, young accented female for customer support use cases
+--------------------------------------------------------------------------------
+
+[37] Name: Charlotte - Heiress
+    ID: 71a7ad14-091c-4e8e-a314-022ece01c121
+    Description: Elegant, young adult female for narrations
+--------------------------------------------------------------------------------
+
+[38] Name: Ray - Conversationalist
+    ID: 565510e8-6b45-45de-8758-13588fbaec73
+    Description: Approachable male voice with a laid-back, natural delivery for everyday conversations
+--------------------------------------------------------------------------------
+
+[39] Name: Dottie - Sweet Gal
+    ID: e3827ec5-697a-4b7c-9704-1a23041bbc51
+    Description: High pitched, earnest, very young female for character narrations for children
+--------------------------------------------------------------------------------
+
+[40] Name: Clyde - Calm Narrator
+    ID: 98a34ef2-2140-4c28-9c71-663dc4dd7022
+    Description: Gentle, measured male voice with warmth and clarity for storytelling and informative reads
+--------------------------------------------------------------------------------
+
+[41] Name: Aurora - Fairy Princess
+    ID: 8f091740-3df1-4795-8bd9-dc62d88e5131
+    Description: Fairy like female for character use cases in entertainment
+--------------------------------------------------------------------------------
+
+[42] Name: Hugo - Teatime Friend
+    ID: 1463a4e1-56a1-4b41-b257-728d56e93605
+    Description: Expressive, young adult male for characters and natural conversation
+--------------------------------------------------------------------------------
+
+[43] Name: Zack - Sportsman
+    ID: ed81fd13-2016-4a49-8fe3-c0d2761695fc
+    Description: Firm, energetic male for lively announcing
+--------------------------------------------------------------------------------
+
+[44] Name: Joey - Neighborhood Guy
+    ID: 34575e71-908f-4ab6-ab54-b08c95d6597d
+    Description: Casual, friendly male for natural conversations
+--------------------------------------------------------------------------------
+
+[45] Name: Asher - Podcaster
+    ID: 00967b2f-88a6-4a31-8153-110a92134b9f
+    Description: Firm adult male for audiobooks and clear communication
+--------------------------------------------------------------------------------
+
+[46] Name: Jo - Go to Gal
+    ID: 5abd2130-146a-41b1-bcdb-974ea8e19f56
+    Description: Young adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[47] Name: Tina - Customer Ally
+    ID: 91b4cf29-5166-44eb-8054-30d40ecc8081
+    Description: Natural, firm adult female for authentic conversation and customer support
+--------------------------------------------------------------------------------
+
+[48] Name: Jake - Sidekick
+    ID: 729651dc-c6c3-4ee5-97fa-350da1f88600
+    Description: Friendly, young adult male for welcoming and engaging conversations
+--------------------------------------------------------------------------------
+
+[49] Name: Emma - Customer Care Line
+    ID: f6ff7c0c-e396-40a9-a70b-f7607edb6937
+    Description: Casual adult female for natural conversations and customer support
+--------------------------------------------------------------------------------
+
+[50] Name: Ruth - Manager
+    ID: 11af83e2-23eb-452f-956e-7fee218ccb5c
+    Description: Firm, authoritative female for providing guidance
+--------------------------------------------------------------------------------
+
+[51] Name: Tyler - Friendly Salesman
+    ID: 820a3788-2b37-4d21-847a-b65d8a68c99a
+    Description: Direct and confidence inspiring adult male for sales and friendly interpersonal conversations
+--------------------------------------------------------------------------------
+
+[52] Name: Greg - Supporter
+    ID: a0e99841-438c-4a64-b679-ae501e7d6091
+    Description: Neutral, deep male for conversational support
+--------------------------------------------------------------------------------
+
+[53] Name: Griffin - Narrator
+    ID: c99d36f3-5ffd-4253-803a-535c1bc9c306
+    Description: Elderly male for narrations
+--------------------------------------------------------------------------------
+
+[54] Name: Lulu - Madame Mischief
+    ID: e13cae5c-ec59-4f71-b0a6-266df3c9bb8e
+    Description: Squeaky, young female for media and entertainment for kids
+--------------------------------------------------------------------------------
+
+[55] Name: Keith - Easygoing Friend
+    ID: 9fa83ce3-c3a8-4523-accc-173904582ced
+    Description: Chill, young adult male for casual conversations
+--------------------------------------------------------------------------------
+
+[56] Name: Grant - Friendly Support
+    ID: d46abd1d-2d02-43e8-819f-51fb652c1c61
+    Description: Reliable, clear male voice with neutral American accent for customer support interactions
+--------------------------------------------------------------------------------
+
+[57] Name: Sally - Soft Spoken Guide
+    ID: 6adbb439-0865-468c-9e68-adbb0eb2e71c
+    Description: Gentle female for calm conversations
+--------------------------------------------------------------------------------
+
+[58] Name: Fiona - Witty Woman
+    ID: a01c369f-6d2d-4185-bc20-b32c225eab70
+    Description: Chirpy and energetic British female voice with a bright tone, great for lively and engaging conversations
+--------------------------------------------------------------------------------
+
+[59] Name: Janvi - Steady Agent
+    ID: 7ea5e9c2-b719-4dc3-b870-5ba5f14d31d8
+    Description: Calm and neutral female voice with a slow, steady delivery, ideal for customer support scenarios
+--------------------------------------------------------------------------------
+
+[60] Name: Sameer - Problem Solver
+    ID: 638efaaa-4d0c-442e-b701-3fae16aad012
+    Description: Friendly male for customer support use cases
+--------------------------------------------------------------------------------
+
+[61] Name: Kiara - Joyful Woman
+    ID: f8f5f1b2-f02d-4d8e-a40d-fd850a487b3d
+    Description: Upbeat, enunciating Indian accented mature adult female for happy conversations
+--------------------------------------------------------------------------------
+
+[62] Name: Mabel - Grandma
+    ID: d7e54830-4754-4b17-952c-bcdb7e80a2fb
+    Description: Friendly, grandmotherly female for empathetic conversations
+--------------------------------------------------------------------------------
+
+[63] Name: Zeke - Friendly Sidekick
+    ID: e00d0e4c-a5c8-443f-a8a3-473eb9a62355
+    Description: High pitched, friendly, young adult male for gaming and entertainment characters
+--------------------------------------------------------------------------------
+
+[64] Name: James - Navigator
+    ID: 42b39f37-515f-4eee-8546-73e841679c1d
+    Description: Very deep, authoritative male for providing guidance and instruction
+--------------------------------------------------------------------------------
+
+[65] Name: Lindsey - Relaxed Rep
+    ID: a38e4e85-e815-43ab-acf1-907c4688dd6c
+    Description: Happy adult female with a laidback affect for casual conversations and customer support
+--------------------------------------------------------------------------------
+
+[66] Name: Clarence - Newsman
+    ID: 41534e16-2966-4c6b-9670-111411def906
+    Description: Firm, deep male with old time radio like acoustics for 20th century historical reenactments
+--------------------------------------------------------------------------------
+
+[67] Name: Olivia - Sunny Woman
+    ID: f31cc6a7-c1e8-4764-980c-60a361443dd1
+    Description: Friendly, happy adult female for engaging conversations
+--------------------------------------------------------------------------------
+
+[68] Name: Riley - Chill Friend
+    ID: 21b81c14-f85b-436d-aff5-43f2e788ecf8
+    Description: Casual, young female for authentic and everyday conversations
+--------------------------------------------------------------------------------
+
+[69] Name: Devansh - Warm Support Agent
+    ID: 1259b7e3-cb8a-43df-9446-30971a46b8b0
+    Description: Warm, conversational Indian male adult voice for casual chats, everyday interactions, and friendly user engagement
+--------------------------------------------------------------------------------
+
+[70] Name: Carson - Friendly Support
+    ID: 4df027cb-2920-4a1f-8c34-f21529d5c3fe
+    Description: Friendly, young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[71] Name: Carlo - Roman Guide
+    ID: 1fc31370-81b1-4588-9c1a-f93793c6e01d
+    Description: Inviting, young accented male for tourism use cases
+--------------------------------------------------------------------------------
+
+[72] Name: Jordan - Chill Pal
+    ID: 87bc56aa-ab01-4baa-9071-77d497064686
+    Description: Welcoming adult male for engaging conversations
+--------------------------------------------------------------------------------
+
+[73] Name: Priya - Trusted Operator
+    ID: f6141af3-5f94-418c-80ed-a45d450e7e2e
+    Description: Authoritative, adult female for customer support
+--------------------------------------------------------------------------------
+
+[74] Name: Robyn - Storycrafter
+    ID: 8985388c-1332-4ce7-8d55-789628aa3df4
+    Description: Neutral, mature female for narrations
+--------------------------------------------------------------------------------
+
+[75] Name: Amelia - Instructor
+    ID: 043cfc81-d69f-4bee-ae1e-7862cb358650
+    Description: Strong, composed female voice suited for giving instructions with clarity and authority
+--------------------------------------------------------------------------------
+
+[76] Name: Mia - Agent
+    ID: 1d3ba41a-96e6-44ad-aabb-9817c56caa68
+    Description: Firm, young female for customer support and casual, natural conversation
+--------------------------------------------------------------------------------
+
+[77] Name: Edith - Matriarch
+    ID: c8605446-247c-4d39-acd4-8f4c28aa363c
+    Description: Elderly, confident female for narrations and wise characters
+--------------------------------------------------------------------------------
+
+[78] Name: Miles - Yogi
+    ID: f114a467-c40a-4db8-964d-aaba89cd08fa
+    Description: Deep, soothing mature male for providing guidance
+--------------------------------------------------------------------------------
+
+[79] Name: Brenda - Host
+    ID: 607167f6-9bf2-473c-accc-ac7b3b66b30b
+    Description: Cheerful, friendly female voice that creates a positive, helpful experience for customer interactions
+--------------------------------------------------------------------------------
+
+[80] Name: Avery - Gaming Girl
+    ID: cccc21e8-5bcf-4ff0-bc7f-be4e40afc544
+    Description: High pitched, energetic young female for animated characters and gaming and entertainment use cases
+--------------------------------------------------------------------------------
+
+[81] Name: Camille - Friendly Expert
+    ID: 55deba52-bc73-4481-ab69-9c8831c8a7c3
+    Description: Calm, neutral female for customer support and instructional videos
+--------------------------------------------------------------------------------
+
+[82] Name: Owen - Tutorial Man
+    ID: bd9120b6-7761-47a6-a446-77ca49132781
+    Description: Elevated, mature adult male for providing guidance and instruction
+--------------------------------------------------------------------------------
+
+[83] Name: Rowan - Team Leader
+    ID: 701a96e1-7fdd-4a6c-a81e-a4a450403599
+    Description: Confident male for narrations
+--------------------------------------------------------------------------------
+
+[84] Name: Paul - Straight Talker
+    ID: 3e1ed423-17e5-4773-b87c-25b031106e41
+    Description: Deep and firm male voice with a relaxed, conversational delivery
+--------------------------------------------------------------------------------
+
+[85] Name: Darla - Resolution Agent
+    ID: 996a8b96-4804-46f0-8e05-3fd4ef1a87cd
+    Description: Firm and confident female voice with a calm, supportive tone - ideal for customer support roles
+--------------------------------------------------------------------------------
+
+[86] Name: Callum - Brand Spokesperson
+    ID: da4a4eff-3b7e-4846-8f70-f075ff61222c
+    Description: Neutral, confident young adult male fit for voiceovers and customer interactions
+--------------------------------------------------------------------------------
+
+[87] Name: Thistle - Troublemaker
+    ID: fb26447f-308b-471e-8b00-8e9f04284eb5
+    Description: Cheery, expressive gender neutral character for whimsical personas in entertainment content
+--------------------------------------------------------------------------------
+
+[88] Name: Carol - Task Coach
+    ID: bf991597-6c13-47e4-8411-91ec2de5c466
+    Description: Authortative, mature female for giving instructions
+--------------------------------------------------------------------------------
+
+[89] Name: Dallas - Fireside Friend
+    ID: 23e9e50a-4ea2-447b-b589-df90dbb848a2
+    Description: Kind male for inviting and authentic conversations
+--------------------------------------------------------------------------------
+
+[90] Name: Oliver - Customer Chap
+    ID: ee7ea9f8-c0c1-498c-9279-764d6b56d189
+    Description: Polite, young adult male for customer facing use cases
+--------------------------------------------------------------------------------
+
+[91] Name: Nathan - Easy Talker
+    ID: 97f4b8fb-f2fe-444b-bb9a-c109783a857a
+    Description: Confident, firm young adult male with a slight edge for conversational use cases
+--------------------------------------------------------------------------------
+
+[92] Name: Casper - Gentle Narrator
+    ID: 4f7f1324-1853-48a6-b294-4e78e8036a83
+    Description: Wistful, young male for emotional narrations
+--------------------------------------------------------------------------------
+
+[93] Name: Yasmin - Dialogue Anchor
+    ID: daf747c6-6bc2-4083-bd59-aa94dce23f5d
+    Description: Firm adult female for conversational use cases
+--------------------------------------------------------------------------------
+
+[94] Name: Benedict - Royal Narrator
+    ID: 7cf0e2b1-8daf-4fe4-89ad-f6039398f359
+    Description: Confident, firm male for narrations
+--------------------------------------------------------------------------------
+
+[95] Name: Alaric - Wizard
+    ID: 87748186-23bb-4158-a1eb-332911b0b708
+    Description: Wistful, wise, elderly male for entertainment and fun characters
+--------------------------------------------------------------------------------
+
+[96] Name: Joan - Messenger
+    ID: c9440d34-5641-427b-bbb7-80ef7462576d
+    Description: Young adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[97] Name: Ellen - Welcome Agent
+    ID: 5c9e800f-2a92-4720-969b-99c4ab8fbc87
+    Description: Authentic female voice with balanced warmth and clarity for both casual and support-driven contexts
+--------------------------------------------------------------------------------
+
+[98] Name: Barry - Helper
+    ID: 13524ffb-a918-499a-ae97-c98c7c4408c4
+    Description: Inviting, friendly male for customer support and product videos
+--------------------------------------------------------------------------------
+
+[99] Name: Silas - Nighttime Narrator
+    ID: 7e19344f-9f17-47d7-a13a-4366ad06ebf3
+    Description: Gentle and steady male voice with a nurturing tone for calm conversations and serene narration
+--------------------------------------------------------------------------------
+
+[100] Name: Carson - Sad Friendly Support
+    ID: 3246e36c-ac8c-418d-83cd-4eaad5a3b887
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[101] Name: Stacy - Mentor
+    ID: 6d287143-8db3-434a-959c-df147192da27
+    Description: Mature-sounding female voice with kindness and ease, perfect for natural interactions
+--------------------------------------------------------------------------------
+
+[102] Name: Wes - Customer Companion
+    ID: 2a4d065a-ac91-4203-a015-eb3fc3ee3365
+    Description: Kind male for engaging with customers
+--------------------------------------------------------------------------------
+
+[103] Name: Travis - How To Guide
+    ID: 40104aff-a015-4da1-9912-af950fbec99e
+    Description: Firm, young male for instructional videos and customer support
+--------------------------------------------------------------------------------
+
+[104] Name: Lexi - Fun Friend
+    ID: 56b87df1-594d-4135-992c-1112bb504c59
+    Description: Cheery, young female for entertainment, media, and gaming use cases
+--------------------------------------------------------------------------------
+
+[105] Name: Carson - Curious Conversationalist
+    ID: 86e30c1d-714b-4074-a1f2-1cb6b552fb49
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[106] Name: Alfred - Cheeky Person
+    ID: 50d6beb4-80ea-4802-8387-6c948fe84208
+    Description: Playful, elderly male for media and entertainment
+--------------------------------------------------------------------------------
+
+[107] Name: Doris - Friend
+    ID: 0c8ed86e-6c64-40f0-b252-b773911de6bb
+    Description: Warm and relatable female voice suited for casual, natural conversations
+--------------------------------------------------------------------------------
+
+[108] Name: Malcom - Talk Show Host
+    ID: 63ff761f-c1e8-414b-b969-d1833d1c870c
+    Description: Lively and experienced male voice ideal for natural, engaging conversations
+--------------------------------------------------------------------------------
+
+[109] Name: Russell - Mentor
+    ID: ab109683-f31f-40d7-b264-9ec3e26fb85e
+    Description: Friendly, deep mature adult male for providing instructions and guidance
+--------------------------------------------------------------------------------
+
+[110] Name: Liam - Guy Next Door
+    ID: 41f3c367-e0a8-4a85-89e0-c27bae9c9b6d
+    Description: Casual, friendly young male for authentic and engaging conversations
+--------------------------------------------------------------------------------
+
+[111] Name: Sylvia - Librarian
+    ID: 573e3144-a684-4e72-ac2b-9b2063a50b53
+    Description: Firm female for instructions and guidance
+--------------------------------------------------------------------------------
+
+[112] Name: Trevor - Movieman
+    ID: c45bc5ec-dc68-4feb-8829-6e6b2748095d
+    Description: Deep, elderly male for narrations and entertainment use cases
+--------------------------------------------------------------------------------
+
+[113] Name: Victor - Voiceover Man
+    ID: 7fe6faca-172f-4fd9-a193-25642b8fdb07
+    Description: Versatile, engaging adult male for professional use cases, narrations, and voiceovers
+--------------------------------------------------------------------------------
+
+[114] Name: Charles - Heroic Man
+    ID: ec58877e-44ae-4581-9078-a04225d42bd4
+    Description: Very deep, adult male for characters that embody strength and determination
+--------------------------------------------------------------------------------
+
+[115] Name: Harry - Service Advisor
+    ID: 3dcaa773-fb1a-47f7-82a4-1bf756c4e1fb
+    Description: Seasoned male for friendly conversation and customer support
+--------------------------------------------------------------------------------
+
+[116] Name: Troy - Fix It Man
+    ID: 726d5ae5-055f-4c3d-8355-d9677de68937
+    Description: Strong, dependable male voice designed for trust-building in customer-facing interactions
+--------------------------------------------------------------------------------
+
+[117] Name: Carson - Friendly Support
+    ID: 96c64eb5-a945-448f-9710-980abe7a514c
+    Description: Friendly, young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[118] Name: Claire - Storyteller
+    ID: 15a9cd88-84b0-4a8b-95f2-5d583b54c72e
+    Description: Soothing, neutral female for narrations
+--------------------------------------------------------------------------------
+
+[119] Name: Sheldon - Help Desk Man
+    ID: 39b376fc-488e-4d0c-8b37-e00b72059fdd
+    Description: Enunciating male for customer support use cases
+--------------------------------------------------------------------------------
+
+[120] Name: Samantha - Support Leader
+    ID: f4e8781b-a420-4080-81cf-576331238efa
+    Description: Firm, confident adult female for conversational support
+--------------------------------------------------------------------------------
+
+[121] Name: Diane - Service Assistant
+    ID: a8136a0c-9642-497a-882d-8d591bdcb2fa
+    Description: Firm, mature adult female for customer support use cases
+--------------------------------------------------------------------------------
+
+[122] Name: Rebecca - Counselor
+    ID: 57b6bf63-c7a1-4ffc-8e10-23bf45152dd6
+    Description: Soft-spoken, empathetic female voice suited for thoughtful, calming dialogue
+--------------------------------------------------------------------------------
+
+[123] Name: Marty - Commercial King
+    ID: 7360f116-6306-4e9a-b487-1235f35a0f21
+    Description: Bold and enthusiastic male voice suited for energetic, attention-grabbing ads
+--------------------------------------------------------------------------------
+
+[124] Name: Ben - Helpful Man
+    ID: bbee10a8-4f08-4c5c-8282-e69299115055
+    Description: slightly raspy voiced middle aged man for friendly and natural conversational support
+--------------------------------------------------------------------------------
+
+[125] Name: Samantha - Sad Support Leader
+    ID: 5e10a334-7fa5-46d4-a64b-5ae6185da3fd
+    Description: Firm, confident adult female for conversational support
+--------------------------------------------------------------------------------
+
+[126] Name: Carson - Angry Friendly Support
+    ID: 0b32066b-2bcc-44b9-89ab-0223a09d1606
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[127] Name: Samantha - Happy Support Leader
+    ID: 761afc95-bef5-44dd-aa07-d3c678912e43
+    Description: Firm, confident adult female for conversational support
+--------------------------------------------------------------------------------
+
+[128] Name: Marilyn - Explainer
+    ID: f9fc912e-52f0-448a-8bfa-47e9ca75f25a
+    Description: smooth and supportive young adult woman great for natural conversations and explaining
+--------------------------------------------------------------------------------
+
+[129] Name: Matt - Goofy Friend
+    ID: bfd3644b-d561-4b1c-a01f-d9af98cb67c0
+    Description: High pitched, silly male for fun characters and entertainment use cases
+--------------------------------------------------------------------------------
+
+[130] Name: Allie - Natural Conversationalist
+    ID: 2747b6cf-fa34-460c-97db-267566918881
+    Description: Confident, approachable young adult woman for natural conversational support
+--------------------------------------------------------------------------------
+
+[131] Name: Darren - Friendly Barritone
+    ID: 8d110413-2f14-44a2-8203-2104db4340e9
+    Description: Deep, friendly adult male for happy voiceovers
+--------------------------------------------------------------------------------
+
+[132] Name: Valerie - Support Authority
+    ID: af346552-54bf-4c2b-a4d4-9d2820f51b6c
+    Description: Authoritative mature female for frontline customer support use cases
+--------------------------------------------------------------------------------
+
+[133] Name: Mark - Promotion Lead
+    ID: 5619d38c-cf51-4d8e-9575-48f61a280413
+    Description: Deep, confident male voice with strong presence - ideal for commercials, promos, and broadcast narration
+--------------------------------------------------------------------------------
+
+[134] Name: Griffin - Excited Narrator
+    ID: 34d923aa-c3b5-4f21-aac7-2c1f12730d4b
+    Description: Elderly male for narrations
+--------------------------------------------------------------------------------
+
+[135] Name: Shawn - Ad Reader
+    ID: 64462aed-aafc-45d4-84cd-ecb4b3763a0a
+    Description: Upbeat male for commercials, announcements, and promotions
+--------------------------------------------------------------------------------
+
+[136] Name: Carson - Scared Friendly Support
+    ID: 5c43e078-5ba4-4e1f-9639-8d85a403f76a
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[137] Name: Gordon - Pilot
+    ID: 36b42fcb-60c5-4bec-b077-cb1a00a92ec6
+    Description: Male, simulating the acoustics over an intercom, for entertainment use cases
+--------------------------------------------------------------------------------
+
+[138] Name: Caspian - Oracle
+    ID: d7862948-75c3-4c7c-ae28-2959fe166f49
+    Description: Echo-y, mystical male for characters with gravitas
+--------------------------------------------------------------------------------
+
+[139] Name: Elias - Night Warden
+    ID: 6a176356-ada1-4b48-b2ae-3a3fdd485680
+    Description: Deep male for entertainment and gaming characters
+--------------------------------------------------------------------------------
+
+[140] Name: Dorian - Director
+    ID: 586b6832-1ca1-43ad-b974-527dc13c2532
+    Description: Welcoming male for providing instructions and guidance
+--------------------------------------------------------------------------------
+
+[141] Name: Carson - Surprised Friendly Support
+    ID: 66f5935b-af2e-4ec9-bb3e-59112e9ddc93
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[142] Name: Franklin - Old Time Radio Host
+    ID: 236bb1fb-dc41-4a2b-84d6-d22d2a2aaae1
+    Description: Elderly man speaking over a crackling 20th century radio for historical reenactments
+--------------------------------------------------------------------------------
+
+[143] Name: Carson - Disgusted Friendly Support
+    ID: ee8b13e7-98af-4b15-89d1-8d402be10c94
+    Description: Friendly young adult male for customer support conversations
+--------------------------------------------------------------------------------
+
+[144] Name: Samantha - Yelling Support Leader
+    ID: d3e03deb-5439-4203-add1-ca9a7501eaa7
+    Description: Firm, confident adult female for conversational support
+--------------------------------------------------------------------------------
+
+[145] Name: Samantha - Angry Support Leader
+    ID: 04bfd756-4fd4-42c2-9ccf-37f647c5bf54
+    Description: Firm, confident adult female for conversational support
+--------------------------------------------------------------------------------
+
+[146] Name: Sean
+    ID: 1cb5b8bc-77c9-4e7c-a251-da02348e2727
+    Description: Casual voice with an easy, relaxed tone that feels natural and effortlessly approachable
+--------------------------------------------------------------------------------
+
+[147] Name: Ross
+    ID: f24ae0b7-a3d2-4dd1-89df-959bdc4ab179
+    Description: Steady voice with balanced tone and clear delivery, ideal for customer support and service
+--------------------------------------------------------------------------------
+
+[148] Name: Clint
+    ID: db69127a-dbaf-4fa9-b425-2fe67680c348
+    Description: Raspy voice with rugged tone, perfect for voice acting and dramatic narration
+--------------------------------------------------------------------------------
+
+[149] Name: Celine
+    ID: ca566b43-944e-4474-b494-7d9f0695f307
+    Description: Relaxed voice with smooth tone and gentle warmth, ideal for calm conversations and easy listening
+--------------------------------------------------------------------------------
+
+[150] Name: Judith
+    ID: 4d3d2e9c-14e4-4802-a8d8-bd5268a73fde
+    Description: Confident voice with clear articulation and composed tone, perfect for presentations and professional dialogue
+--------------------------------------------------------------------------------
+
+[151] Name: Suzanne
+    ID: 8634bd27-0acf-4056-b014-4fea0385ed9e
+    Description: Matured voice with a natural, conversational tone that feels warm, relatable, and approachable
+--------------------------------------------------------------------------------
+
+[152] Name: Edward
+    ID: 5fb68a42-0ed7-46fa-8a8f-ad4b332fbf6f
+    Description: Confident voice with clarity and persuasive tone, perfect for advertisements and promotional content
+--------------------------------------------------------------------------------
+
+[153] Name: Tabitha
+    ID: b56c6aac-f35f-46f7-9361-e8f078cec72e
+    Description: Smooth voice with easy warmth and relaxed tone, perfect for casual conversations
+--------------------------------------------------------------------------------
+
+[154] Name: Elaine
+    ID: f0377496-2708-4cc9-b2f8-1b7fdb5e1a2a
+    Description: Assured voice with calm confidence and clear tone, ideal for professional, informative, or guiding narration
+--------------------------------------------------------------------------------
+
+[155] Name: Sterling
+    ID: b134c304-d095-4d2b-a77a-914f5e8e84e7
+    Description: Deep voice with commanding presence and dignified tone, perfect for narrations and authoritative storytelling
+--------------------------------------------------------------------------------
+
+[156] Name: Regis
+    ID: 74f42072-6245-4fe2-b5dc-3dc9b56fdbd0
+    Description: Authoritative voice with polished clarity and balanced tone, perfect for news delivery and formal announcements
+--------------------------------------------------------------------------------
+
+[157] Name: Tanner
+    ID: 373e661a-f0ef-4e34-a09e-183184a443e6
+    Description: Laidback voice with smooth tone and easy rhythm, great for conversational and approachable content
+--------------------------------------------------------------------------------
+
+[158] Name: Marcus
+    ID: 9301949d-b7cd-40d9-a246-5a4430992d6b
+    Description: Composed voice with approachable warmth, perfect for customer service and support
+--------------------------------------------------------------------------------
+
+[159] Name: Colin
+    ID: e39b9fc0-23f5-4616-962a-da99c8ccb1dc
+    Description: Confident voice with clear articulation and reassuring tone, ideal for professional and customer service use
+--------------------------------------------------------------------------------
+
+[160] Name: Skyler
+    ID: 01fd7d67-d2a0-4e4e-8c48-42611c71a926
+    Description: Easygoing voice with effortless tone that feels natural and approachable
+--------------------------------------------------------------------------------
+
+[161] Name: Cameron
+    ID: df872fcd-da17-4b01-a49f-a80d7aaee95e
+    Description: Laidback voice with a natural, conversational tone that feels friendly and easy to engage with
+--------------------------------------------------------------------------------
+
+[162] Name: Sabrina
+    ID: 0a9a5903-0a30-4d2e-b6b6-891f73d4b4e0
+    Description: Relaxed female voice with an easy, conversational tone that feels approachable and genuine
+--------------------------------------------------------------------------------
+
+[163] Name: Emily
+    ID: f6ce3444-478b-4ce4-982e-bcb72dffe7aa
+    Description: Cheerful voice with warm and welcoming tone that feels natural and easy to connect with
+--------------------------------------------------------------------------------
+
+[164] Name: Shelly
+    ID: 0d2162c2-2fe9-40a7-b3c1-43eab576a64b
+    Description: Friendly voice with a bright, approachable tone that feels natural and welcoming in any setting
+--------------------------------------------------------------------------------
+
+[165] Name: Laurel
+    ID: cb6a8744-41b0-4cdc-b643-fabeb545c6a9
+    Description: Warm voice with gentle empathy and clarity, perfect for heartfelt conversations and customer support
+--------------------------------------------------------------------------------
+
+[166] Name: Jeremy
+    ID: 6cb8801d-259a-4bdc-978f-b45808d58cd3
+    Description: High energy voice with clear and engaging tone, perfect for advertisements and promotions
+--------------------------------------------------------------------------------
+
+[167] Name: Kurt
+    ID: efa653e5-314d-46ca-9f90-70ac7d6ca71e
+    Description: Engaging male voice with expressive tone and natural warmth, ideal for customer service
+--------------------------------------------------------------------------------
+
+[168] Name: Zander
+    ID: afb19d1b-4044-4f34-a962-f4aef640a002
+    Description: Enthusiastic voice with energetic delivery and bold tone, perfect for advertisements and high-energy narrations
+--------------------------------------------------------------------------------
+
+[169] Name: Jillian
+    ID: e4d5f4c4-6601-4779-bee1-b3c14d629dc6
+    Description: Cheerful voice with lively warmth and friendly tone, perfect for upbeat conversations
+--------------------------------------------------------------------------------
+
+[170] Name: Garrett
+    ID: c58bda25-abd5-4c72-97a2-4dbe049b368d
+    Description: Upbeat voice with bright energy and confident tone, perfect for lively conversations and engaging content
+--------------------------------------------------------------------------------
+
+[171] Name: Romeo
+    ID: f688c0a6-dddd-48ba-8246-c099d494a162
+    Description: Relaxing voice with smooth depth and calm pacing, perfect for storytelling and immersive narrations
+--------------------------------------------------------------------------------
+
+[172] Name: Marjorie
+    ID: 3d9b50f9-10c5-4026-9ae1-c4a698f67fc5
+    Description: Encouraging matured voice with warm reassurance and steady tone, perfect for motivational and supportive messages
+--------------------------------------------------------------------------------
+
+[173] Name: Noah
+    ID: a924b0e6-9253-4711-8fc3-5cb8e0188c94
+    Description: Slow-paced voice with gentle warmth and soothing tone, perfect for ASMR and relaxation content
+--------------------------------------------------------------------------------
+
+[174] Name: Kim
+    ID: eb649460-7e23-43bc-ad20-0a7a2749b938
+    Description: Friendly voice with a smooth, easygoing tone
+--------------------------------------------------------------------------------
+
+[175] Name: Ariane
+    ID: 1f575487-6f3d-40e0-862a-814f55b5fb15
+    Description: Engaging voice with expressive warmth and clarity, perfect for drawing listeners into any conversation
+--------------------------------------------------------------------------------
+
+[176] Name: Kelsey
+    ID: 050f5a7a-9d2b-4b76-84e3-2d056a0a3eb0
+    Description: Upbeat voice with lively energy and friendly warmth, perfect for energetic and engaging conversations
+--------------------------------------------------------------------------------
+
+[177] Name: Maxine
+    ID: 6fbca103-0f7f-4e49-97ed-49a53b4f3534
+    Description: Smooth voice with a calm, laid-back tone that brings an easy sense of comfort to any conversation
+--------------------------------------------------------------------------------
+
+[178] Name: Aubrey
+    ID: 87041166-c212-4838-9028-05d7437df750
+    Description: Warm voice with a relaxed, natural tone that feels friendly and effortlessly relatable
+--------------------------------------------------------------------------------
+
+[179] Name: Wesley
+    ID: 6fccb471-26f7-4f7a-93dd-542935db6c20
+    Description: Casual voice with a relaxed, friendly tone that feels natural and easy to listen to
+--------------------------------------------------------------------------------
+
+[180] Name: Rory
+    ID: 9329fbdb-e285-4fba-95ec-592e15f14476
+    Description: Motherlike voice with a calm, nurturing tone that brings warmth and reassurance to any conversation
+--------------------------------------------------------------------------------
+
+[181] Name: Isla
+    ID: eef47c0d-cb49-4160-a4a0-6b97ed4c81e6
+    Description: Calm voice with gentle warmth and steady rhythm, perfect for yoga, meditation, and relaxation
+--------------------------------------------------------------------------------
+
+[182] Name: Janice
+    ID: 69092565-1c93-4a88-9f2c-ac8cddaf9f65
+    Description: Engaging voice with a casual, friendly tone that draws listeners in and keeps conversations lively
+--------------------------------------------------------------------------------
+
+[183] Name: Steven
+    ID: 17488b72-f815-44d8-bdd9-869971c3ec06
+    Description: Conversational voice with a relaxed, natural tone that feels genuine and easy to engage with
+--------------------------------------------------------------------------------
+
+[184] Name: Melina
+    ID: d6b0c62a-c7ff-477c-9a1f-eadd64b94360
+    Description: Outgoing voice with lively warmth and friendly tone, perfect for casual chats and everyday conversations
+--------------------------------------------------------------------------------
+
+[185] Name: Dominic
+    ID: 59697755-8cfb-4ccf-9da4-f2201d06b067
+    Description: Strong voice with commanding projection and energetic tone, perfect for sports commentary and live announcements
+--------------------------------------------------------------------------------
+
+[186] Name: Aina
+    ID: 80c81aee-b6ad-4d12-9af8-a9c79c2e141d
+    Description: Calm voice with soothing balance and gentle rhythm, ideal for meditation, mindfulness, and relaxation
+--------------------------------------------------------------------------------
+
+[187] Name: Vivian
+    ID: ca31ce53-ebf6-4e51-b87d-2f65d5d1f7f8
+    Description: Voice with rich emotion and expressive depth, perfect for dramatic readings and heartfelt narration
+--------------------------------------------------------------------------------
+
+[188] Name: Holly
+    ID: aef96ff9-4578-4b5d-9744-7fb347cbe4d4
+    Description: Cheerful voice with bright warmth and friendly energy, perfect for engaging conversations and upbeat content
+--------------------------------------------------------------------------------
+
+[189] Name: Mason
+    ID: b58b6b46-1a27-46ba-8648-bc203a5d394e
+    Description: Chill voice with a smooth, conversational tone that feels relaxed and genuine
+--------------------------------------------------------------------------------
+
+[190] Name: Spencer
+    ID: 3bf35adc-bcc4-464b-b834-c90c88cf6492
+    Description: Casual male voice with an engaging, upbeat tone that feels friendly and effortlessly conversational
+--------------------------------------------------------------------------------
+
+[191] Name: Conrad
+    ID: 9c8880b2-ccf9-4730-b805-cea23df247d7
+    Description: Mature, confident voice with composed authority and clear tone, perfect for professional or narrative use
+--------------------------------------------------------------------------------
+
+[192] Name: Derrick
+    ID: 5cf0e4d9-ca2b-4fd5-81fa-89db3b645539
+    Description: No-nonsense voice with steady confidence and clear tone, ideal for customer service and tech support
+--------------------------------------------------------------------------------
+
+[193] Name: Clarkson
+    ID: c0f43c66-9f21-4034-b485-8f1d3340d759
+    Description: Businesslike voice with confident tone and professional delivery, perfect for corporate and formal settings
+--------------------------------------------------------------------------------
+
+[194] Name: Vicky
+    ID: 643f5eee-459d-4b41-b4fc-0b8407139be6
+    Description: Clear and crisp voice with precise delivery and bright tone, ideal for professional and instructional content
+--------------------------------------------------------------------------------
+
+[195] Name: Melanie
+    ID: dcc82bcd-647e-4478-955f-8232d5122f8b
+    Description: Enthusiastic female voice with bright, engaging energy that brings excitement to any conversation 
+--------------------------------------------------------------------------------
+
+[196] Name: Quinn
+    ID: 045f0292-0731-4a4c-971d-64594fc2c35a
+    Description: Confident voice with clear articulation and poised tone, perfect for presentations and customer interactions
+--------------------------------------------------------------------------------
+
+[197] Name: Bryce
+    ID: 2948c301-9211-4112-8f36-4c3fc836ef12
+    Description: Confident voice with clear enunciation and strong delivery, ideal for professional and instructional use
+--------------------------------------------------------------------------------
+
+[198] Name: Marvin
+    ID: 49808e4c-998a-40a8-b2ea-8ac8e8ce779e
+    Description: Deep, comforting voice with calm authority and warmth, perfect for reassuring and professional customer service
+--------------------------------------------------------------------------------
+
+[199] Name: Tiffany
+    ID: 86600680-b836-41e1-9916-8475728dcc14
+    Description: Engaging voice with lively clarity and confident warmth, ideal for keeping listeners interested and connected
+--------------------------------------------------------------------------------
+
+[200] Name: Elliott
+    ID: 7a8ae0b6-504a-49af-92d3-4e7e2eb84ca1
+    Description: Approachable and cheerful voice with bright warmth that instantly connects and uplifts listeners
+--------------------------------------------------------------------------------
+
+[201] Name: Jamie
+    ID: b5c1bab5-f036-481f-9295-4db6f06f6443
+    Description: Casual voice with a warm, friendly tone that feels like chatting with a close friend
+--------------------------------------------------------------------------------
+
+[202] Name: Preston
+    ID: cd6256ef-2b2a-41f6-a8d8-c1307af5061f
+    Description: Confident voice with expressive tone and charismatic delivery, great for engaging conversations
+--------------------------------------------------------------------------------
+
+[203] Name: Aiden
+    ID: 3ccc4544-84f7-45e3-ae57-5c52b5a1fac6
+    Description: Soothing voice with calm depth and gentle pacing, perfect for peaceful narrations and relaxation content.
+--------------------------------------------------------------------------------
+
+[204] Name: Kelly
+    ID: 4b1e0bf9-53a0-4e9e-8664-ba1314dbcb38
+    Description:  Casual voice with a friendly, natural tone that feels easygoing and approachable
+--------------------------------------------------------------------------------
+
+[205] Name: Patricia
+    ID: e5a6cd18-d552-4192-9533-82a08cac8f23
+    Description: Matured voice with lively warmth and enthusiasm, perfect for engaging and energetic customer service
+--------------------------------------------------------------------------------
+
+[206] Name: Diana
+    ID: ea93f57f-7c71-4d79-aeaa-0a39b150f6ca
+    Description: Matured voice with a casual, friendly tone that feels warm, relatable, and easy to connect with
+--------------------------------------------------------------------------------
+
+[207] Name: Colby
+    ID: 18f8d87b-0da9-4efa-b504-4580e303f7db
+    Description: Casual voice with an engaging, upbeat tone that brings energy and friendliness to any conversation
+--------------------------------------------------------------------------------
+
+[208] Name: Harley
+    ID: fdf6303b-4cfa-4f8e-b7ae-acb398984cf9
+    Description: Casual voice with a relaxed, natural tone that feels approachable and genuine
+--------------------------------------------------------------------------------
+
+[209] Name: Logan
+    ID: ea7c252f-6cb1-45f5-8be9-b4f6ac282242
+    Description: Casual voice with an easy, conversational tone that feels natural and approachable
+--------------------------------------------------------------------------------
+
+[210] Name: Selene
+    ID: 63927f41-9616-4ac2-89cf-f3afa346e0ef
+    Description: Relaxing and calm voice with gentle flow and serene tone, ideal for meditation and mindfulness content
+--------------------------------------------------------------------------------
+
+[211] Name: Tara
+    ID: 3308b492-50cc-417e-89dd-1f446c574546
+    Description: Confident voice with clear, composed tone, perfect for professional and customer service settings
+--------------------------------------------------------------------------------
+
+[212] Name: Evelyn
+    ID: 320f7211-3dc3-4292-89b1-3661e8cac27c
+    Description: Calm voice with soft warmth and gentle pacing, ideal for soothing narrations and ASMR
+--------------------------------------------------------------------------------
+
+[213] Name: Marge
+    ID: a2364c9d-1fe3-4553-9eff-100c4fe5ffc8
+    Description: Wise matured female voice with expressive warmth and character, perfect for storytelling and entertainment
+--------------------------------------------------------------------------------
+
+[214] Name: Benji
+    ID: 2d5b8c3a-116c-4741-acaf-ba4fa289eba2
+    Description: Excited and cheerful voice with bright energy and lively tone, perfect for upbeat chats and engaging content.
+--------------------------------------------------------------------------------
+
+[215] Name: Zoey
+    ID: 48369ca9-0645-40de-9821-0d55e18a03c2
+    Description: Upbeat female voice with lively energy and warmth, perfect for energetic and engaging conversations
+--------------------------------------------------------------------------------
+
+[216] Name: Chandler
+    ID: 356f4a89-d056-4e2e-8c73-865fa4d3af0a
+    Description: Casual male voice with a warm, natural tone that feels friendly and effortlessly relatable
+--------------------------------------------------------------------------------
+
+[217] Name: Mindy
+    ID: d6905573-8e91-4e32-b103-fd4d1205cd87
+    Description: Enthusiastic female voice with bright energy and cheerful tone, great for lively conversations and upbeat content
+--------------------------------------------------------------------------------
+
+[218] Name: Darius
+    ID: 23112795-d54e-4560-9568-791a87c30201
+    Description: Husky matured male voice with rich texture and commanding tone, ideal for engaging story telling and narrations
+--------------------------------------------------------------------------------
+
+[219] Name: Kayla
+    ID: 1ac31ebd-9113-405b-9d80-4a4bbbeea91c
+    Description: Casual female voice with a friendly, natural tone that feels effortless and engaging in conversation
+--------------------------------------------------------------------------------
+
+[220] Name: Graham
+    ID: 1628cfcd-a161-4e47-98ff-46bffa4ab290
+    Description: Confident male voice with a clear, reassuring tone, perfect for professional and customer service interactions
+--------------------------------------------------------------------------------
+
+[221] Name: Harlan
+    ID: a892d232-f705-40d7-bc8d-e368b295ec2a
+    Description: Deep male voice with classic resonance and smooth authority, reminiscent of an old radio announcer
+--------------------------------------------------------------------------------
+
+[222] Name: Wade
+    ID: 3d83e30f-c31b-4f26-b442-7075feafa53a
+    Description: Country-sounding male voice with a warm drawl and genuine charm, perfect for friendly storytelling
+--------------------------------------------------------------------------------
+
+[223] Name: Devin
+    ID: 87a983d8-3471-4c4b-9ade-f1d10a4110ac
+    Description: Laidback male voice with a smooth, easygoing tone that feels relaxed and effortlessly cool
+--------------------------------------------------------------------------------
+
+[224] Name: Sasha
+    ID: 3f38cbe2-ce6a-4051-b5dc-2b2ee20b9bc1
+    Description: Chill female voice with a smooth, laid-back tone that brings ease and calm to any conversation
+--------------------------------------------------------------------------------
+
+[225] Name: Dylan
+    ID: b2222537-1561-4425-8c3c-e1aca96ad853
+    Description: Casual male voice with an easy, conversational tone that feels friendly and down-to-earth
+--------------------------------------------------------------------------------
+
+[226] Name: Shane
+    ID: 8cbfe3ab-8364-4e72-b606-93f749519c66
+    Description: Casual male voice with clear, steady delivery that makes troubleshooting steps easy to follow and understand
+--------------------------------------------------------------------------------
+
+[227] Name: Lawson
+    ID: d2c66146-c1c8-4c3a-9870-38e5a6b72442
+    Description: Charming matured male voice with smooth delivery and refined tone, perfect for narrations and advertisements
+--------------------------------------------------------------------------------
+
+[228] Name: Diana
+    ID: 083de431-6b5c-4b18-a2dc-264eafa205f2
+    Description: Chirpy matured female voice with expressive warmth and lively cadence, perfect for engaging storytelling
+--------------------------------------------------------------------------------
+
+[229] Name: Haley
+    ID: cec7cae1-ac8b-4a59-9eac-ec48366f37ae
+    Description: Casual female voice with a relaxed, friendly tone that feels natural and easy to engage with
+--------------------------------------------------------------------------------
+
+[230] Name: Julian
+    ID: 5319c0b1-3dd1-4c00-b721-bfd2ec88ef56
+    Description: Friendly and cheerful male voice with uplifting warmth, great for feel-good narrations and advertisements
+--------------------------------------------------------------------------------
+
+[231] Name: Gavin
+    ID: f4a3a8e4-694c-4c45-9ca0-27caf97901b5
+    Description: Casual male voice with a relaxed, conversational tone that feels approachable and genuine
+--------------------------------------------------------------------------------
+
+[232] Name: Denise
+    ID: 8a1b8af0-c4f6-423f-a268-5507fd4aefdf
+    Description: Professional female voice with confident clarity and polished tone, ideal for corporate and business settings
+--------------------------------------------------------------------------------
+
+[233] Name: Carl
+    ID: ed82c17b-4704-4d34-be43-5d19065acdf1
+    Description: Matured male voice with calm depth and measured pacing, perfect for narrations and documentaries
+--------------------------------------------------------------------------------
+
+[234] Name: Jett
+    ID: bbc5d060-50e1-45a3-87ff-191b8cea3092
+    Description: Casual male voice with an easygoing rhythm and friendly tone that feels natural and relatable
+--------------------------------------------------------------------------------
+
+[235] Name: Edna
+    ID: 19e399df-5b30-4fba-9d1d-99434f993614
+    Description: Matured female voice with gentle wisdom and poise, perfect for thoughtful narration and reflective dialogue
+--------------------------------------------------------------------------------
+
+[236] Name: Caleb
+    ID: b9cf5ec3-eaa4-46a5-a5b2-b0d0f22395a2
+    Description: Steady male voice with clear diction and calm depth, ideal for narrating stories, reports, and documentaries
+--------------------------------------------------------------------------------
+
+[237] Name: Orin
+    ID: 4c2dcd38-5608-45ca-8f11-51c88208d01c
+    Description: A deep, silky male voice that delivers authority and allure, perfect for impactful ads and promos
+--------------------------------------------------------------------------------
+
+[238] Name: Dean
+    ID: 90c896fa-aaa1-41af-a612-5267636440a3
+    Description: Casual male voice with a relaxed, natural tone that feels easy to listen to and effortlessly genuine
+--------------------------------------------------------------------------------
+
+[239] Name: Lacey
+    ID: efc5488b-5429-4e72-aaa2-570981cf47d9
+    Description: Cheerful and friendly female voice with bright energy that uplifts and engages listeners instantly
+--------------------------------------------------------------------------------
+
+[240] Name: Dana
+    ID: cc00e582-ed66-4004-8336-0175b85c85f6
+    Description: Neutral female voice with clear articulation and calm tone, ideal for versatile conversational or professional use.
+--------------------------------------------------------------------------------
+
+[241] Name: Cera
+    ID: 3af40927-948e-429b-b92d-e2158f79fb9f
+    Description: Casual female voice with an easy, conversational flow that feels natural and friendly.
+--------------------------------------------------------------------------------
+
+[242] Name: Donny
+    ID: d709a7e8-9495-4247-aef0-01b3207d11bf
+    Description: Neutral male voice with balanced tone and clarity, adaptable for a wide range of casual speaking contexts.
+--------------------------------------------------------------------------------
+
+[243] Name: Elise
+    ID: 64b2a604-f0de-449f-9d90-255602357c05
+    Description: Casual female voice with a smooth, approachable tone that feels effortless and natural in conversation
+--------------------------------------------------------------------------------
+
+[244] Name: Reese
+    ID: c7c790c5-2bf4-47e4-bc83-5f43e61f3803
+    Description: Casual, friendly female voice with a bright and welcoming tone suited for everyday conversations
+--------------------------------------------------------------------------------
+
+[245] Name: Ralph
+    ID: 1ce291a1-0771-4732-a3f7-8cca29bf055f
+    Description: Matured male voice with powerful projection and crisp delivery, perfect for announcements and sports commentary
+--------------------------------------------------------------------------------
+
+[246] Name: Damon
+    ID: dbfa416f-d5c3-4006-854b-235ef6bdf4fd
+    Description: Deep and serious male voice with steady gravitas, ideal for documentaries and impactful storytelling
+--------------------------------------------------------------------------------
+
+[247] Name: Jace
+    ID: 6776173b-fd72-460d-89b3-d85812ee518d
+    Description: Friendly and chill male voice with an easygoing tone that feels relaxed and natural
+--------------------------------------------------------------------------------
+
+[248] Name: Edric
+    ID: 921034a2-aace-4ef7-87b1-b9bc455c9a15
+    Description: Matured male voice with steady pacing and clear intonation, delivering messages with poise and clarity
+--------------------------------------------------------------------------------
+
+[249] Name: Clark
+    ID: c78dd7ae-6692-4c44-a2a2-834e365afe60
+    Description: Approachable male voice with a confident, knowledgeable tone ideal for customer service and support
+--------------------------------------------------------------------------------
+
+[250] Name: Leo
+    ID: 0834f3df-e650-4766-a20c-5a93a43aa6e3
+    Description: Friendly and approachable male voice that brings warmth and ease to any interactionTest
+--------------------------------------------------------------------------------
+
+[251] Name: Hugh
+    ID: 4cf80313-54dc-4ca9-a17c-3e5b8f68a78c
+    Description: Seasoned male voice with rich character and charisma, great for lively ads and engaging conversations
+--------------------------------------------------------------------------------
+
+[252] Name: Ronan
+    ID: 8d7d11ff-d985-48a2-a737-1da0b6fedc8b
+    Description: Friendly male voice with an easygoing tone that feels natural and inviting in any context
+--------------------------------------------------------------------------------
+
+[253] Name: Arvin
+    ID: 3f04e815-3260-4f50-8fd9-af9c657be4c2
+    Description: Clear, steady male voice that communicates instructions and troubleshooting steps with confidence and ease
+--------------------------------------------------------------------------------
+
+[254] Name: Nora
+    ID: f4c1a0b2-669d-403f-b440-4b34b34856aa
+    Description: A balanced, neutral female voice that sounds natural and approachable for everyday conversations
+--------------------------------------------------------------------------------
+
+[255] Name: Maya
+    ID: cbaf8084-f009-4838-a096-07ee2e6612b1
+    Description: A friendly, casual female voice with clear articulation, ideal for natural conversations and customer supportTest
+--------------------------------------------------------------------------------
+
+[256] Name: Lira
+    ID: c1b9a03e-747f-40ad-8e7b-18caf8aaac0b
+    Description: A soothing female voice with gentle warmth, ideal for calm narrations and ASMR
+--------------------------------------------------------------------------------
+
+[257] Name: Natasha - Upbeat Guide
+    ID: e2d08065-b658-466b-ad52-cef8ee21d307
+    Description: English female adult voice with a lively, upbeat tone for energetic conversations
+--------------------------------------------------------------------------------
+
+[258] Name: Albert - Firm Guide
+    ID: 9a0894a9-28f0-436e-9a1d-e92bccbce4dd
+    Description: English male adult voice with a firm and authoritative tone for providing clear instructions and guidance
+--------------------------------------------------------------------------------
+
+[259] Name: Tanner - Upbeat Assistant
+    ID: 710feaa3-b550-42f3-b3eb-6f37f2a7cc0a
+    Description: English male adult voice with an upbeat and energetic tone
+--------------------------------------------------------------------------------
+
+[260] Name: Chloe - Persuasive Lady
+    ID: f762e181-ddc7-486e-9a48-636bd7e229d4
+    Description: English female adult voice with a confident and persuasive tone, able to influence and engage listeners with clarity and conviction
+--------------------------------------------------------------------------------
+
+[261] Name: Serena - Laidback Girl
+    ID: 3ef78ba6-9aaa-46a2-b5b5-f9ded76a2370
+    Description: Female adult voice with a relaxed, easygoing tone and laid-back delivery
+--------------------------------------------------------------------------------
+
+[262] Name: Howard - Approachable Man
+    ID: 0d42f0f6-c019-4082-b250-1c16133d1c82
+    Description: Male adult voice with a clear, approachable tone and steady delivery
+--------------------------------------------------------------------------------
+
+[263] Name: Amber - Warm Support Agent
+    ID: a7a59115-2425-4192-844c-1e98ec7d6877
+    Description: English female adult voice with a cheerful yet deeper tone, striking a balance of warmth and authority for customer service use
+--------------------------------------------------------------------------------
+
+[264] Name: Jewel - Commercial Announcer
+    ID: f39d8500-0d9b-4b8b-a080-38f5188f5892
+    Description: Smooth, confident, and engaging female voice for advertising, promos, and high-impact brand messaging
+--------------------------------------------------------------------------------
+
+[265] Name: Brent - Steady Conversationalist
+    ID: 3d808d23-cb09-4c39-8afd-528e209cba4f
+    Description: English male adult voice with a calm, steady, and composed delivery
+--------------------------------------------------------------------------------
+
+[266] Name: Monica - Emotive Voice
+    ID: 1b4ea5fb-b1c0-43ee-a7be-4e315878c2b1
+    Description: English female adult voice with rich emotional range and expressive delivery
+--------------------------------------------------------------------------------
+
+[267] Name: Todd - Matter of Fact Salesman
+    ID: efd255c7-f030-43d3-b5d8-c7b72063be70
+    Description: English male adult voice with a direct, matter-of-fact delivery
+--------------------------------------------------------------------------------
+
+[268] Name: Elliott - Reflective Storyteller
+    ID: 7edf9efb-58fc-46ba-a648-3a00a86b111b
+    Description: English male adult voice with a soft, melancholic tone and a questioning inflection for storytelling and emotional dialogue
+--------------------------------------------------------------------------------
+
+[269] Name: Clara - Instructor
+    ID: 01eaafa9-308a-4276-a017-6ab0cf061b1f
+    Description: Middle-aged American female voice with a clear tone and precise enunciation for instructions, customer support, and professional presentations
+--------------------------------------------------------------------------------
+
+[270] Name: Molly - Upbeat Conversationalist
+    ID: 03b1c65d-4b7f-4c09-91a8-e2f6f78cb2c9
+    Description: Bright and cheerful American-accented female voice for upbeat conversations, advertisements, and lively interactions
+--------------------------------------------------------------------------------
+
+[271] Name: Connor - Grateful Person
+    ID: 92c41dd4-04aa-45de-8504-a92b40cb8818
+    Description: Expressive American adult male voice with a grateful yet firm tone for speeches, storytelling, and professional communication
+--------------------------------------------------------------------------------
+
+[272] Name: Scott - Sportscaster
+    ID: 2f22b9bc-b0eb-4cb6-b5ae-0c099a0fdfad
+    Description: Energetic American adult male voice with the excitement of a sportscaster for live commentary, sports content, and high-energy announcements
+--------------------------------------------------------------------------------
+
+[273] Name: Sienna - Encourager
+    ID: 4e41a434-85fc-4614-b203-af79ba44d473
+    Description: Soft-spoken American-accented female voice with a motivating and reassuring tone for guidance, support, and uplifting conversations
+--------------------------------------------------------------------------------
+
+[274] Name: Daphne - Excited Woman
+    ID: 09ed0318-2f4a-41b1-abe5-d11da7537c31
+    Description: Expressive and upbeat American-accented female voice with an exciting tone for ads, presentations, and lively storytelling
+--------------------------------------------------------------------------------
+
+[275] Name: Wang - Guide
+    ID: 79bfcec0-720c-41f2-a33a-f12383e9627f
+    Description: Clear and firm adult male voice with an authoritative tone for customer support, giving instructions and professional communication
+--------------------------------------------------------------------------------
+
+[276] Name: Erin - Joyful Guide
+    ID: 8918ddfe-2ad4-4cc8-a573-e020ca13f3f5
+    Description: Cheerful and optimistic adult female voice for upbeat conversations, advertisements, and positive customer interactions
+--------------------------------------------------------------------------------
+
+[277] Name: Brittany - Intense Performer
+    ID: 46788d8e-cdf9-4d5c-9125-094eb2e4d44c
+    Description: Strong and aggressive American-accented female voice for intense dialogue, dramatic roles, or high-energy commercials
+--------------------------------------------------------------------------------
+
+[278] Name: Adrian - Explorer
+    ID: e2d48e7b-cd73-4c4c-bc1e-f232580e8709
+    Description: Deep American adult male voice with a curious and engaging tone for explorations, documentaries, and storytelling
+--------------------------------------------------------------------------------
+
+[279] Name: Aarav - Old Time Storyteller
+    ID: 39c3388d-6b3f-4cec-88d7-900bd0899e00
+    Description: Warm adult male voice with a slight Indian accent and a vintage tone for nostalgic storytelling, retro-style media, and historical narration
+--------------------------------------------------------------------------------
+
+[280] Name: Krishna - Friendly Pal
+    ID: c63361f8-d142-4c62-8da7-8f8149d973d6
+    Description: Easygoing adult male voice with a slight Indian accent for casual conversations, approachable dialogue, and friendly interactions
+--------------------------------------------------------------------------------
+
+[281] Name: Allen - Modern Voice
+    ID: 9287676d-f0cc-423f-ac03-3b3c7242f091
+    Description: Confident young adult male voice with a neutral American accent for presentations, ads, and engaging everyday conversations
+--------------------------------------------------------------------------------
+
+[282] Name: Claudia - Welcoming Lady
+    ID: f80e7298-93f5-46d0-86f2-b8f29cfc88bd
+    Description: Friendly, calm young adult female for casual conversations
+--------------------------------------------------------------------------------
+
+[283] Name: Cindy - Receptionist
+    ID: 1242fb95-7ddd-44ac-8a05-9e8a22a6137d
+    Description: Smooth, welcoming adult female for frontline customer interactions
+--------------------------------------------------------------------------------
+
+[284] Name: Madison - Best Friend
+    ID: 02fe5732-a072-4767-83e3-a91d41d274ca
+    Description: Enthusiastic, young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[285] Name: David - Greeter
+    ID: da69d796-4603-4419-8a95-293bfc5679eb
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[286] Name: Lori - Scared Cheerleader
+    ID: fb78f09f-f998-4061-ad51-d71f90388f0e
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[287] Name: Lori - Surprised Cheerleader
+    ID: c2da2a3e-b0d6-46bf-a09a-68562617a50a
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[288] Name: Lori - Curious Cheerleader
+    ID: ba0add52-783c-4ec0-8b9c-7a6b60f99d1c
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[289] Name: Lori - Happy Cheerleader
+    ID: 8843adfb-77d3-455a-86f9-de0651555ec6
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[290] Name: Lori - Cheerleader
+    ID: 5cc54223-ec0c-4c50-87e9-b9947264e1f4
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[291] Name: Lori - Cheerleader
+    ID: 57c63422-d911-4666-815b-0c332e4d7d6a
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[292] Name: Lori - Disgusted Cheerleader
+    ID: 414da90b-16b3-4e88-86f5-3c3945e8fa4b
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[293] Name: Lori - Sad Cheerleader
+    ID: 2d01710c-7c77-4cf1-b0d0-5902a25f6e17
+    Description: Female with clear enunciation for upbeat, emotive conversations
+--------------------------------------------------------------------------------
+
+[294] Name: Steve - Disgusted Baritone
+    ID: f96dc0b1-7900-4894-a339-81fb46d515a7
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[295] Name: Steve - Curious Baritone
+    ID: c1c65fc2-528a-4dde-a2c4-f822785c2704
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[296] Name: Steve - Scared Baritone
+    ID: b1ce5126-4d08-42c3-adef-d3eb39e90c7a
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[297] Name: Steve - Happy Baritone
+    ID: adde00e9-c98f-42ae-a94d-fc9f92f11c76
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[298] Name: Steve - Baritone
+    ID: 9fb269e7-70fe-4cbe-aa3f-28bdb67e3e84
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[299] Name: Steve - Sad Baritone
+    ID: 80713a53-e484-4f69-9852-7891096016ac
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[300] Name: Steve - Angry Baritone
+    ID: 7c8ba972-4960-4c43-bea0-8178e2205696
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[301] Name: Steve - Surprised Baritone
+    ID: 6fd4f468-0345-4f41-81d0-3f48ebc295e0
+    Description: Deep, firm adult male for narrations and voiceovers
+--------------------------------------------------------------------------------
+
+[302] Name: David - Angry Greeter
+    ID: fd098a10-ba9e-445e-b144-be2a9f3dac02
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[303] Name: David - Sad Greeter
+    ID: c4e848dc-d4fd-4bc8-90ea-8525563ec0e5
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[304] Name: David - Curious Greeter
+    ID: b08c966e-2146-4592-99eb-3171a714a43c
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[305] Name: David - Scared Greeter
+    ID: a3a4fe2a-d402-41d1-be7d-28f71eda755f
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[306] Name: David - Disgusted Greeter
+    ID: 9d2b4a7f-7ced-4fb8-b570-9ce21fb931c8
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[307] Name: David - Happy Greeter
+    ID: 6b622a1d-906f-44af-b60c-7bef365bf124
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[308] Name: David - Surprised Greeter
+    ID: 10d17ae0-8f64-472a-be00-f00a98c729e0
+    Description: Engaging adult male for advertising and upbeat conversations
+--------------------------------------------------------------------------------
+
+[309] Name: Luke - Broadway Voice
+    ID: 8e14933d-ecd7-402b-9505-795130d69b35
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[310] Name: Luke - Broadway Voice
+    ID: 7b2c0a2e-3dd3-4a44-b16b-26ecd8134279
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[311] Name: Luke - Disgusted Broadway Voice
+    ID: 79b8126f-c5d9-4a73-8585-ba5e1a077ed6
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[312] Name: Luke - Surprised Broadway Voice
+    ID: 725d43d6-1196-480e-bd87-728ae5eff9e1
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[313] Name: Luke - Scared Broadway Voice
+    ID: 63426c82-a0c9-4f23-a175-50eb64c95ec1
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[314] Name: Luke - Angry Broadway Voice
+    ID: 61001bc6-9064-40a4-b8b2-29178e0fa558
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[315] Name: Luke - Sad Broadway Voice
+    ID: 5c7b66c2-3b58-464d-8a12-093410a269c5
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[316] Name: Luke - Happy Broadway Voice
+    ID: 3d79b1fd-daaa-439c-bff3-903dc18e7684
+    Description: Seasoned male voice for casual, authentic conversations
+--------------------------------------------------------------------------------
+
+[317] Name: Kenneth - Curious Friendly Rep
+    ID: cf14fdcd-24a0-4d63-958a-c784f33d8e7c
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[318] Name: Kenneth - Sad Friendly Rep
+    ID: cb605424-d682-48e9-94db-34cc567cf1c6
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[319] Name: Kenneth - Surprised Friendly Rep
+    ID: abe7dee1-6051-43d3-9a9f-1ac1312497a7
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[320] Name: Kenneth - Angry Friendly Rep
+    ID: aa086107-101b-4182-a628-c51186d74166
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[321] Name: Kenneth - Friendly Rep
+    ID: 911b8b22-887f-4caf-bf87-85d834c08708
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[322] Name: Kenneth - Disgusted Friendly Rep
+    ID: 876c39e1-9ecd-42cd-b0c1-8b3906f0be19
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[323] Name: Kenneth - Happy Friendly Rep
+    ID: 83e45f18-fac4-40db-a43b-03257883b437
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[324] Name: Kenneth - Scared Friendly Rep
+    ID: 64875a07-f57e-4a70-b702-4e3fb25efeda
+    Description: Well-paced male voice with clear enunciation, great for approachable and informative conversations
+--------------------------------------------------------------------------------
+
+[325] Name: Madison - Surprised Best Friend
+    ID: a5def41e-2e73-433f-92f7-5f1d99fef05d
+    Description: Enthusiastic, young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[326] Name: Madison - Curious Best Friend
+    ID: 98c87826-dba2-44f4-b123-4c7e3c8a2647
+    Description: Enthusiastic, young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[327] Name: Madison - Happy Best Friend
+    ID: 62305e79-9d39-4643-b003-5e0b096fe4f4
+    Description: Enthusiastic young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[328] Name: Madison - Disgusted Best Friend
+    ID: 5993c2c9-5d59-403e-b459-946c8b302086
+    Description: Enthusiastic young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[329] Name: Madison - Scared Best Friend
+    ID: 30236d07-62d0-4c63-abf7-df46aa45e473
+    Description: Enthusiastic, young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[330] Name: Madison - Sad Best Friend
+    ID: 27c12970-3efb-4f39-a78a-2fbb7bddc941
+    Description: Enthusiastic young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+[331] Name: Madison - Best Friend
+    ID: 134838f5-ce7e-4876-ac32-6367b99daf83
+    Description: Enthusiastic, young adult female for emotive discussions
+--------------------------------------------------------------------------------
+
+
+Found 331 English voices
+
+To use a voice, copy its ID and update main.py:
+CARTESIA_VOICE_ALEX = 'paste-id-here'
+CARTESIA_VOICE_SAM = 'paste-id-here'
